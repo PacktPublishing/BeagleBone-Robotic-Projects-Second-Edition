@@ -5,7 +5,7 @@ Beaglebone Blue is effectively a small, light, cheap computer in a similar vein 
 
 
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter04.
 
 Chapters 1, 2, 6, 9  does not  have code files
 
