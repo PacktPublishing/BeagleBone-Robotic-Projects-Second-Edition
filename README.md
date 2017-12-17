@@ -40,6 +40,3 @@ build-essential sudo apt-get install build-essential
 * [Mastering BeagleBone Robotics](https://www.packtpub.com/hardware-and-creative/mastering-beaglebone-robotics?utm_source=github&utm_medium=repository&utm_campaign=9781783988907)
 
 * [Using Yocto Project with BeagleBone Black](https://www.packtpub.com/hardware-and-creative/yocto-beaglebone?utm_source=github&utm_medium=repository&utm_campaign=9781785289736)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
